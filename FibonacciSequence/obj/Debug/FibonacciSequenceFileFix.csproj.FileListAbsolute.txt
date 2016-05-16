@@ -1,0 +1,10 @@
+C:\Users\mikae\Desktop\CentralCC\C#\EmpProdWorker&RecommendationFiles\FibonacciSequence\FibonacciSequence\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\mikae\Desktop\CentralCC\C#\EmpProdWorker&RecommendationFiles\FibonacciSequence\FibonacciSequence\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\mikae\Desktop\CentralCC\C#\EmpProdWorker&RecommendationFiles\FibonacciSequence\FibonacciSequence\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\mikae\Desktop\CentralCC\C#\EmpProdWorker&RecommendationFiles\FibonacciSequence\FibonacciSequence\bin\Debug\WindowsFormsApplication5.exe.CodeAnalysisLog.xml
+C:\Users\mikae\Desktop\CentralCC\C#\EmpProdWorker&RecommendationFiles\FibonacciSequence\FibonacciSequence\bin\Debug\WindowsFormsApplication5.exe.lastcodeanalysissucceeded
+C:\Users\mikae\Desktop\CentralCC\C#\EmpProdWorker&RecommendationFiles\FibonacciSequence\FibonacciSequence\obj\Debug\WindowsFormsApplication5.FibonacciForm.resources
+C:\Users\mikae\Desktop\CentralCC\C#\EmpProdWorker&RecommendationFiles\FibonacciSequence\FibonacciSequence\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\mikae\Desktop\CentralCC\C#\EmpProdWorker&RecommendationFiles\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequenceFileFix.csproj.GenerateResource.Cache
+C:\Users\mikae\Desktop\CentralCC\C#\EmpProdWorker&RecommendationFiles\FibonacciSequence\FibonacciSequence\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\mikae\Desktop\CentralCC\C#\EmpProdWorker&RecommendationFiles\FibonacciSequence\FibonacciSequence\obj\Debug\WindowsFormsApplication5.pdb
